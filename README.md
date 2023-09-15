@@ -1,5 +1,4 @@
-# comettivitor-Santander-DIO-Bootcampo-Desafio3
-comettivitor/Santander-DIO-Bootcampo-Desafio 3
+# Santander-DIO-Bootcampo-Desafio3
 
 
 # DIO - Trilha Java Básico
